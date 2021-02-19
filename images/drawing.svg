@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg869"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs863" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.29866157"
+     inkscape:cx="374.67442"
+     inkscape:cy="221.46536"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="872"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata866">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="opacity:0.56101;fill:#3f1eff;fill-opacity:1;fill-rule:evenodd;stroke:#fef5fb;stroke-width:0.264583;stroke-opacity:0.956226"
+       id="path1476"
+       sodipodi:sides="5"
+       sodipodi:cx="-24.324231"
+       sodipodi:cy="125.76465"
+       sodipodi:r1="99.507729"
+       sodipodi:r2="49.75386"
+       sodipodi:arg1="1.1068377"
+       sodipodi:arg2="1.7351562"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 20.204658,214.75322 -32.465,174.84799 -95.197209,195.61312 -73.520899,133.1899 -112.65503,79.944804 -46.588674,81.270366 -8.0426866,27.597957 11.112256,90.840415 74.069115,110.91414 19.841166,148.67457 Z"
+       inkscape:transform-center-x="-5.0312729"
+       inkscape:transform-center-y="-4.5890597" />
+    <text
+       xml:space="preserve"
+       style="font-size:67.0047px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';stroke-width:0.264583"
+       x="-57.04018"
+       y="110.09005"
+       id="text1480"
+       transform="scale(0.70255253,1.4233811)"><tspan
+         sodipodi:role="line"
+         id="tspan1478"
+         x="-57.04018"
+         y="110.09005"
+         style="stroke-width:0.264583">Teamuravidam</tspan></text>
+    <ellipse
+       style="opacity:0.56101;fill:#3f1eff;fill-opacity:1;fill-rule:evenodd;stroke:#fef5fb;stroke-width:0.264583;stroke-opacity:0.956226"
+       id="path1482"
+       cx="105.13789"
+       cy="126.50825"
+       rx="198.25082"
+       ry="176.42871" />
+  </g>
+</svg>
